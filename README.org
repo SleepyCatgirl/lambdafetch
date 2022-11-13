@@ -1,0 +1,5 @@
+* λfetch
+This is a neofetch 'clone' with lacking features, written in clojure, solely for practice.
+Also the code is ugly. Very much.
+* Status
+A c t i v e
